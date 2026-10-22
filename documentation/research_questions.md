@@ -2,13 +2,7 @@
 ## Research Agenda
 
 We are taking an exploratory approach. Our aim is to provide a clear picture of how the field of archaeology is organised and how it has changed over time.
-
-
-
 We are investigating who the people in this field are, their social background, country of origin, gender and generation. We are also looking at which organisations they belong to and how people and organisations are linked. We aim to highlight who does what and where, and how this varies across countries, groups and genders.
-
-
-
 We use a prosopographical method. This means that we collect the same type of data for many individuals in order to identify common patterns in their lives and professional careers. From this, we seek to develop a simple model that illustrates how the discipline has changed over time.
 
 
