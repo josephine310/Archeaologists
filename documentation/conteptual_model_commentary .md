@@ -9,16 +9,6 @@
 * person comes from one family background
 * person works in any number of fields
 * person can have any number of education, employments, memberships, excavation participations, roles in publication, person relationships
-## family background
-* the family origin of one person
-* seperate class, because siblings share the same family background
-### properties
-* it is an object class, persistent item
-* mother´s occupation, father´s occupation, notes
-* notable relatives would be persons linked by relationship -> relationship type -> family
-### relations
-* a person has 0..1 family background
-* a family background belongs to 1..n persons
 ## field
 * an archaelogical field
 * for example: prehistory, classical archaeology , egyptology
@@ -123,6 +113,7 @@
 * one person and one excavation
 ## person_relationship
 * a relationship between two persons (teacher-student, collabaration, family tie)
+* the information about the parents would be found here
 ### properties
 * it is a temporal entity
 * start and end year, notes
@@ -131,6 +122,13 @@
 * one person_relationship_type
 ## person_relationship_type
 * types of relationships
+* family ties
 ### properties
 * vocabulary
 * name
+## citizenship
+* one person can have at least one citizenship
+### properties
+* temporal entity
+### relations
+* one person and one citizenship
